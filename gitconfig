@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jpdungeon@gmail.com
+	name = JuanPedro Toro
